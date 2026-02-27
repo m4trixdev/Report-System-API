@@ -1,4 +1,4 @@
-# report-system-api
+# Report System API
 
 REST API for managing player reports, built with FastAPI and PostgreSQL.
 
@@ -133,3 +133,4 @@ pytest --cov=app tests/
 ## License
 
 MIT
+
